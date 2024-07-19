@@ -57,4 +57,6 @@ To find  $L_{PDE}$, we differentiate the neural network outputs with respect to 
 
 <p>$$L_{\text{PDE}} = \frac{1}{n} \left( \left\| f1 \right\|^2 + \left\| f2 \right\|^2 +\left\| f3 \right\|^2+\left\| f4 \right\|^2+ \left\| f5 \right\|^2 + \left\| f6 \right\|^2 \right)$$</p>
 
+
+ ## Results
  
