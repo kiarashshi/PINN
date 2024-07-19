@@ -61,5 +61,7 @@ To find  $L_{PDE}$, we differentiate the neural network outputs with respect to 
  ## Results
  ![loss](https://github.com/user-attachments/assets/cc3d1ad1-5e50-49cc-bba1-69d592196fa8)
 
+ ![Screenshot (639)](https://github.com/user-attachments/assets/a41e1d4f-c704-4340-a48f-36f92db97449)
+
 
  
